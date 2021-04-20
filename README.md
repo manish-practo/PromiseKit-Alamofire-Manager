@@ -1,0 +1,1 @@
+# PromiseKit-Alamofire-Manager
